@@ -1,0 +1,2 @@
+注意用colab訓練時,其xgboost的版本
+與requirements的xgboost版本要一致
